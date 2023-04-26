@@ -1,0 +1,381 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.head-nicepg {
+    background: #f2f2f2;
+    border: none;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+
+}
+
+.icon-responsiv {
+    display: inline;
+    position: relative;
+    left: 450px;
+    top: 10px;
+    width: 100%;
+
+
+}
+
+.close-icon {
+    position: relative;
+    left: 1000px;
+}
+
+.icon1 {
+    position: relative;
+    top: 17px;
+    left: 10px;
+}
+
+.back-ground-img {
+
+    background-image: url(image/handspeoplewomanmeeting.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 750px;
+}
+
+.text-1 {
+    position: relative;
+    top: 320px;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+.text-2 {
+    position: relative;
+    top: 300px;
+    color: white;
+    text-align: center;
+    font-size: 8rem;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
+.section-2 {
+    width: 100%;
+
+    background-color: #f2f2f2;
+}
+
+.box-count {
+    background-color: #4a549b;
+    width: 200px;
+    padding: 20px;
+
+
+}
+
+.box-b1 {
+    font-size: 100px;
+    color: #f2f2f2;
+    text-align: center;
+
+}
+
+.box-b2 {
+    color: #f2f2f2;
+    font-size: 40px;
+    text-align: center;
+}
+
+.box-count-main {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    bottom: 50px;
+}
+
+.image-text-section {
+    float: right;
+    height: 400px;
+    padding: 50px;
+    background-position: center;
+    background-size: contain;
+}
+
+.about-1 {
+    padding: 50px;
+    padding-left: 120px;
+
+}
+
+.text-12 {
+    color: #4a549b;
+
+}
+
+.text-22 {
+    font-size: 50px;
+    color: #4a549b;
+}
+
+.text-33 {
+    font-size: 18px;
+    color: #4a549b;
+}
+
+.button-1 {
+    height: 40px;
+    width: 120px;
+    background-color: #4a549b;
+    border: none;
+    color: #f2f2f2;
+}
+
+.expert {
+    padding: 50px;
+    height: auto;
+    width: 250px;
+}
+
+.hit {
+    font-size: 50px;
+    text-align: center;
+    color: maroon;
+}
+
+.preset {
+    color: grey;
+}
+
+.display1 {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    top: 50px;
+
+
+}
+
+.img-section {
+    position: relative;
+    top: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img-hite {
+    height: 350px;
+    width: 337.25px;
+
+}
+
+.color-in {
+    height: 350px;
+    width: 337.25px;
+    background-color: #80185f;
+}
+
+.batan-view {
+    background-color: #f2f2f2;
+    height: 40px;
+    width: 120px;
+    position: relative;
+    left: 30px;
+    border: none;
+    color: #020000;
+}
+
+.pre-1 {
+    color: #f2f2f2;
+    padding-left: 30px;
+
+}
+
+.spaker {
+    color: #f2f2f2;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 100px;
+    padding-left: 30px;
+}
+
+.text-topic {
+    margin-top: 65px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.list-b1 {
+    margin-left: 50px;
+    display: inline-block;
+    font-size: 20px;
+    color: #80185f;
+    position: relative;
+    top: 20px;
+
+
+}
+
+.list-b2 {
+    display: inline-block;
+    margin-left: 50px;
+    font-size: 20px;
+    color: #80185f;
+}
+
+.image-back {
+    height: 330px;
+    width: 480px;
+    float: right;
+    left: 50px;
+    position: relative;
+}
+
+.back-ground-img2 {
+    margin-top: 100px;
+
+}
+
+.back-ground-img2 {
+
+    background-image: url(image/bgl.jpeg);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 533px;
+}
+
+.side-detail {
+    color: #f2f2f2;
+    padding: 20px;
+}
+
+.text-b1 {
+    font-size: 50px;
+}
+
+.icon-all {
+    font-size: 21px;
+
+}
+
+.ped {
+    padding: 5px;
+}
+
+.name-bx {
+    border: 2px solid gray;
+    background: none;
+    height: 40px;
+    width: 400px;
+}
+
+.email-bx {
+    border: 2px solid gray;
+    background: none;
+    height: 40px;
+    width: 400px;
+}
+
+.message-bx {
+    border: 2px solid gray;
+    background: none;
+    height: 120px;
+    width: 400px;
+    color: #f2f2f2;
+    font-size: 16px;
+}
+
+::placeholder {
+    color: white;
+
+}
+
+.submit-bx {
+    background-color: #4a549b;
+    border: none;
+    height: 40px;
+    width: 100px;
+}
+
+.side-detail {
+    position: relative;
+    right: 100px;
+}
+
+.manage-form {
+    padding: 20px;
+}
+
+.blue-secction {
+    background-color: #4a549b;
+    height: 180px;
+    width: 100%;
+}
+
+.text-try {
+    font-size: 40px;
+    color: wheat;
+    position: relative;
+    right: 80px;
+    top: 20px;
+}
+
+.ticket-btn {
+
+    position: relative;
+    left: 50px;
+    top: 20px;
+    background-color: #f2f2f2;
+    height: 40px;
+    width: 120px;
+    font-size: 18px;
+    border: none;
+    color: #020000;
+
+}
+
+.siz-img {
+    height: 34px;
+    width: 225px;
+    padding: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.company1 {
+    position: relative;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.company2 {
+    position: relative;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.foot-color {
+    background-color: #020000;
+    height: 100px;
+}
+
+.footer-tex {
+    text-align: center;
+    color: white;
+    display: flex;
+    position: relative;
+    top: 40px;
+
+}
